@@ -42,7 +42,7 @@
         },
         "compatibleCoreVersion": {
             "type": "string",
-            "description": "Specifies the latest Foundry version this package is compatible with.",
+            "description": "Specifies the latest Foundry version this package is compatible with."
         },
         "scripts": {
             "$ref": "#definitions/stringArray",
@@ -118,7 +118,7 @@
                     }
                 },
                 "required": ["name"]
-            },
+            }
         },
         "languages": {
             "type": "array",
