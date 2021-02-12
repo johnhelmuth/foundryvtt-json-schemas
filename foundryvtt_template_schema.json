@@ -52,6 +52,5 @@
             "$ref": "#definitions/entity",
             "description": "The top level data schema for Item types."
         }
-    },
-    "additionalProperties": false
+    }
 }

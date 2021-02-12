@@ -205,7 +205,6 @@
             "format": "url"
         }
     },
-    "additionalProperties": false,
     "required": ["name", "title", "description", "version", "minimumCoreVersion"],
     "oneOf": [{"required": ["author"]}, {"required": ["authors"]}]
 }
