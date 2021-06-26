@@ -89,7 +89,7 @@
                     "entity": {
                         "type": "string",
                         "description": "Each Compendium pack must designate which type of Entity it contains.",
-                        "enum": ["Actor", "Item", "Journal", "Macro", "Command", "Playlist", "Table", "Scene"]
+                        "enum": ["Actor", "Item", "Journal", "Macro", "Command", "Playlist", "RollTable", "Scene"]
                     }
                 },
                 "required": ["name", "label", "system", "path", "entity"]
